@@ -1,0 +1,13 @@
+package com.ab.appconfigrequirement.data
+
+enum class Permission {
+    ES_READ_PERMISSION,
+    ES_WRITE_PERMISSION,
+
+    LOCATION_PERMISSION,
+    ACTIVITY_RECOGNITION,
+    BACKGROUND_LOCATION_PERMISSION,
+    FINE_LOCATION_PERMISSION,
+
+    BATTERY_OPTIMIZATION
+}

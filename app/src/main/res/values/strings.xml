@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">AppConfigRequirement</string>
+
+
+    <!-- CONNECTIONS-->
+
+    <!-- BLUETOOTH CONNECTION-->
+    <string name="title_bluetooth_connection">Activer le bluetooth</string>
+    <string name="desc_bluetooth_connection">Cette application a besoin du bluetooth pour fonctionner</string>
+
+    <!-- LOCATION CONNECTION-->
+    <string name="title_location_connection">Activer la géolocalisation</string>
+    <string name="desc_location_connection">La géolocalisation est désactivée sur votre téléphone. Or celle-ci est nécessaire depuis Android 6.0 et plus, afin de détecter votre boîtier. Vous pouvez la désactiver une fois l\'appairage terminé.</string>
+
+    <!-- INTERNET CONNECTION-->
+    <string name="title_internet_connection">Activer internet</string>
+    <string name="desc_internet_connection">Internet est désactivée sur votre téléphone.</string>
+
+
+    <!-- PERMISSIONS-->
+
+    <!-- READ ON EXTERNAL STORAGE PERMISSION-->
+    <string name="title_read_one_external_storage_permission">Autoriser la lecture des données sur le stockage externe</string>
+    <string name="desc_read_one_external_storage_permission">a</string>
+
+    <!-- WRITE ON EXTERNAL STORAGE PERMISSION-->
+    <string name="title_write_one_external_storage_permission">Autoriser l\'écriture des données sur le stockage externe</string>
+    <string name="desc_write_one_external_storage_permission">a</string>
+
+    <!-- WIFI PERMISSION-->
+    <string name="title_wifi_permission">a</string>
+    <string name="desc_wifi_permission">a</string>
+
+    <!-- BACKGROUND LOCATION PERMISSION-->
+    <string name="title_background_location_permission">Autoriser l\'acces au gps en arrière plan</string>
+    <string name="desc_background_location_permission">Veuillez autoriser l\'accès en permanence à la position de votre téléphone dans les paramètres.</string>
+
+    <!-- FINE LOCATION PERMISSION-->
+    <string name="title_fine_location_permission">Autoriser l\'acces au gps</string>
+    <string name="desc_fine_location_permission">Veuillez autoriser l\'accès à la position de votre téléphone.</string>
+
+    <!-- BATTERY OPTIMIZATION PERMISSION-->
+    <string name="title_battery_optimization_permission">Autoriser la désactivation de l\'utilitaire d\'optimisation de batterie</string>
+    <string name="desc_battery_optimization_permission">a</string>
+
+    <!-- BACKGROUND SERVICE LOCATION PERMISSION-->
+    <string name="title_background_service_location_permission">Autoriser l\'execution en arrière plan de l\'application</string>
+    <string name="desc_background_service_location_permission">Afin d\'assurer le bon fonctionnement de l\'application, veuillez autoriser son exécution en arrière plan.</string>
+
+    <!-- ACTIVITY RECOGNITION PERMISSION-->
+    <string name="title_activity_recognition_permission">Autoriser la reconnaissance d\'activité</string>
+    <string name="desc_activity_recognition_permission">Veuillez autoriser l\'accès à la reconnaissance d\'activité sur votre téléphone.</string>
+
+    <!-- CAMERA PERMISSION-->
+    <string name="title_camera_permission">Autoriser l\'accès à la camera</string>
+    <string name="desc_camera_permission">Veuillez autoriser l\'accès à l\'appareil photo de votre téléphone.</string>
+
+
+    <!-- ACTION REQUESTED-->
+
+    <!-- SETTINGS ACTION-->
+    <string name="action_settings">Aller dans les réglages</string>
+
+    <!-- ALLOW CONNECTION ACTION-->
+    <string name="action_connection">Activer la connection</string>
+
+    <!-- ALLOW PERMISSION ACTION-->
+    <string name="action_permission">Autoriser la permission</string>
+
+</resources>
